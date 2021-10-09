@@ -6,7 +6,7 @@ Nowadays, fake news has become a common trend. Even trusted media houses are kno
 
 In this project, we have built a classifier model that can identify news as real or fake. For this purpose, we have used data from Kaggle, to build this model following the same methods.
 
-With the help of this project, we can create an NLP classifier to detect whether the news is real or fake.
+With the help of this project,we can create an NLP classifier to detect whether the news is real or fake.
 
 ### Use these links when running the webpage.
 #### For predicting Real News: Any news article from ndtv(It is the most-popular Indian news website)
